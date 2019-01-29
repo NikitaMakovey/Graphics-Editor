@@ -1,0 +1,40 @@
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\bin\Debug\NewPaint.exe.config
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\bin\Debug\NewPaint.exe
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\bin\Debug\NewPaint.pdb
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.csprojAssemblyReference.cache
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\ExportWindow.g.cs
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\MainWindow.g.cs
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\App.g.cs
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint_MarkupCompile.cache
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint_MarkupCompile.lref
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\App.baml
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\ExportWindow.baml
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\MainWindow.baml
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\res.baml
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\ResDictionary.baml
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.g.resources
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.Properties.Resources.resources
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.csproj.GenerateResource.cache
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.exe
+C:\Users\АДМИН\Desktop\Work Table\Граф.редактор\NewPaint-master\NewPaint\obj\Debug\NewPaint.pdb
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\bin\Debug\NewPaint.exe.config
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\bin\Debug\NewPaint.exe
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\bin\Debug\NewPaint.pdb
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.csprojAssemblyReference.cache
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\ExportWindow.g.cs
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\MainWindow.g.cs
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\App.g.cs
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint_MarkupCompile.cache
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint_MarkupCompile.lref
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\App.baml
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\ExportWindow.baml
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\MainWindow.baml
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\res.baml
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\ResDictionary.baml
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.g.resources
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.Properties.Resources.resources
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.csproj.GenerateResource.cache
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.exe
+C:\Users\АДМИН\source\repos\GrafRedactorMakovei\NewPaint\obj\Debug\NewPaint.pdb

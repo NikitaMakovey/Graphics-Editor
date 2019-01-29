@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:RedactorMakovei">
+    <Image x:Key="PencilBMP" Source="icons/PencilTool.bmp"/>
+    <Image x:Key="LineBMP" Source="icons/LineTool.bmp"/>
+    <Image x:Key="RectangleBMP" Source="icons/RectangleTool.bmp"/>
+    <Image x:Key="RoundRectangleBMP" Source="icons/RoundRectangleTool.bmp"/>
+    <Image x:Key="EllipseBMP" Source="icons/EllipseTool.bmp"/>
+    <Image x:Key="ZoomBMP" Source="icons/ZoomTool.bmp"/>
+    <Image x:Key="HandBMP" Source="icons/HandTool.bmp"/>
+    <Image x:Key="EmphasizeBMP" Source="icons/EmphasizeTool.bmp"/>
+    <Image x:Key="ClearAllBMP" Source="icons/ClearAllTool.bmp"/>
+</ResourceDictionary>
